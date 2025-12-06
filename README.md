@@ -21,8 +21,8 @@
 <p align="left">
 <a href="https://twitter.com/angelebecerrat1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angelebecerrat1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/angel-emilio-becerra-t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angel-emilio-becerra-t" height="30" width="40" /></a>
-<a href="https://fb.com/angel emilio becerra tello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="angel emilio becerra tello" height="30" width="40" /></a>
-<a href="https://instagram.com/@angelemiliobece" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@angelemiliobece" height="30" width="40" /></a>
+<a href="https://www.facebook.com/angel.emilio.becerra.tello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="angel emilio becerra tello" height="30" width="40" /></a>
+<a href="https://instagram.com/angelemiliobece" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="angelemiliobece" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
