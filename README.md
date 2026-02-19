@@ -136,7 +136,7 @@ I love turning complex problems into simple, elegant solutions.
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
   </a>
   <a href="https://hostinger.com" target="_blank" rel="noreferrer">
-    <img src="http://www.w3.org/2000/svg" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Hostinger_logo.png" width="40" height="40"/>
   </a>
 </p>
 
